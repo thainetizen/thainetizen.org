@@ -156,6 +156,7 @@ venv.bak/
 
 # Zensical build output
 site/
+.cache/
 
 # mypy
 .mypy_cache/
