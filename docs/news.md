@@ -2,84 +2,84 @@
 icon: lucide/newspaper
 ---
 
-# News & Updates
+# ข่าวสารและความเคลื่อนไหว
 
-Stay informed about the latest developments in internet freedom and digital rights in Thailand.
+ติดตามพัฒนาการล่าสุดเกี่ยวกับเสรีภาพทางอินเทอร์เน็ตและสิทธิดิจิทัลในประเทศไทย
 
-## Recent Updates
+## ข่าวสารล่าสุด
 
-### January 2025: New Year, New Challenges
+### มกราคม 2568: ปีใหม่ ความท้าทายใหม่
 
-As we enter 2025, Thai Netizen reaffirms our commitment to defending internet freedom and digital rights in Thailand. We are launching new initiatives to address emerging challenges in the digital space.
+เมื่อเราเข้าสู่ปี 2568 Thai Netizen ยืนยันความมุ่งมั่นของเราในการปกป้องเสรีภาพทางอินเทอร์เน็ตและสิทธิดิจิทัลในประเทศไทย เรากำลังเปิดตัวโครงการใหม่เพื่อจัดการกับความท้าทายที่เกิดขึ้นใหม่ในพื้นที่ดิจิทัล
 
-**Read more**: Coming soon
-
----
-
-### December 2024: Year in Review
-
-2024 was a significant year for digital rights in Thailand. We saw both progress and setbacks in the fight for internet freedom. Here are some highlights from our year:
-
-- Published comprehensive Internet Freedom Report
-- Conducted 12 digital security training workshops
-- Supported 45+ individuals facing digital rights violations
-- Engaged with policymakers on key legislative reforms
-
-**Read more**: Coming soon
+**อ่านเพิ่มเติม**: เร็วๆ นี้
 
 ---
 
-### November 2024: Digital Security Workshop Success
+### ธันวาคม 2567: สรุปย้อนหลังปีนี้
 
-We successfully conducted a digital security workshop for journalists and activists, with over 50 participants learning about secure communications, anonymous browsing, and protecting their data.
+ปี 2567 เป็นปีที่สำคัญสำหรับสิทธิดิจิทัลในประเทศไทย เราเห็นทั้งความก้าวหน้าและความพ่ายแพ้ในการต่อสู้เพื่อเสรีภาพทางอินเทอร์เน็ต นี่คือไฮไลท์บางส่วนจากปีของเรา:
 
-**Read more**: Coming soon
+- เผยแพร่รายงานเสรีภาพทางอินเทอร์เน็ตที่ครอบคลุม
+- จัดการประชุมเชิงปฏิบัติการความปลอดภัยดิจิทัล 12 ครั้ง
+- สนับสนุนบุคคลมากกว่า 45 คนที่เผชิญกับการละเมิดสิทธิดิจิทัล
+- มีส่วนร่วมกับผู้กำหนดนโยบายเกี่ยวกับการปฏิรูปกฎหมายสำคัญ
 
----
-
-### October 2024: Policy Brief Released
-
-Thai Netizen released a policy brief analyzing proposed amendments to the Computer Crime Act, highlighting concerns about potential impacts on freedom of expression and privacy rights.
-
-**Read more**: Coming soon
+**อ่านเพิ่มเติม**: เร็วๆ นี้
 
 ---
 
-## Subscribe for Updates
+### พฤศจิกายน 2567: ความสำเร็จของการประชุมเชิงปฏิบัติการความปลอดภัยดิจิทัล
 
-Stay connected with Thai Netizen and receive updates about our work:
+เราจัดการประชุมเชิงปฏิบัติการความปลอดภัยดิจิทัลสำหรับนักข่าวและนักกิจกรรมสำเร็จ มีผู้เข้าร่วมมากกว่า 50 คนเรียนรู้เกี่ยวกับการสื่อสารที่ปลอดภัย การท่องเว็บแบบไม่เปิดเผยตัวตน และการปกป้องข้อมูลของพวกเขา
 
-- Follow us on social media (links in footer)
-- Check back regularly for new posts
-- [Contact us](contact.md) to join our mailing list
+**อ่านเพิ่มเติม**: เร็วๆ นี้
 
 ---
 
-## In the Media
+### ตุลาคม 2567: เผยแพร่สรุปนโยบาย
 
-Our work has been featured in various media outlets:
+Thai Netizen เผยแพร่สรุปนโยบายวิเคราะห์การแก้ไขเพิ่มเติมที่เสนอต่อพระราชบัญญัติว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ โดยเน้นความกังวลเกี่ยวกับผลกระทบที่อาจเกิดขึ้นต่อเสรีภาพในการแสดงออกและสิทธิความเป็นส่วนตัว
 
-- Local and international news coverage of internet freedom issues
-- Expert commentary on digital rights developments
-- Research cited in policy discussions
+**อ่านเพิ่มเติม**: เร็วๆ นี้
 
 ---
 
-## Events & Announcements
+## สมัครรับข้อมูลอัพเดท
 
-### Upcoming Events
+เชื่อมต่อกับ Thai Netizen และรับข้อมูลอัพเดทเกี่ยวกับงานของเรา:
 
-Currently, no upcoming events are scheduled. Check back soon for updates on workshops, webinars, and community meetups.
-
-### Past Events
-
-- **December 2024**: Annual General Meeting
-- **November 2024**: Digital Security Workshop for Journalists
-- **October 2024**: Internet Freedom Forum 2024
-- **September 2024**: Community Meetup on Privacy Rights
+- ติดตามเราบนโซเชียลมีเดีย (ลิงก์ในส่วนท้าย)
+- กลับมาตรวจสอบเป็นประจำสำหรับโพสต์ใหม่
+- [ติดต่อเรา](contact.md)เพื่อเข้าร่วมรายชื่ออีเมลของเรา
 
 ---
 
-## Press Inquiries
+## ในสื่อ
 
-Media professionals seeking information or commentary on internet freedom and digital rights issues in Thailand can [contact us](contact.md) for press inquiries.
+งานของเราได้รับการนำเสนอในสื่อต่างๆ:
+
+- การรายงานข่าวท้องถิ่นและระหว่างประเทศเกี่ยวกับประเด็นเสรีภาพทางอินเทอร์เน็ต
+- ความคิดเห็นผู้เชี่ยวชาญเกี่ยวกับการพัฒนาสิทธิดิจิทัล
+- การวิจัยที่ถูกอ้างอิงในการอภิปรายนโยบาย
+
+---
+
+## กิจกรรมและประกาศ
+
+### กิจกรรมที่กำลังจะเกิดขึ้น
+
+ขณะนี้ยังไม่มีกิจกรรมที่กำลังจะเกิดขึ้น กลับมาตรวจสอบอีกครั้งสำหรับข้อมูลอัพเดทเกี่ยวกับการประชุมเชิงปฏิบัติการ เว็บทำินาร์ และการพบปะชุมชน
+
+### กิจกรรมที่ผ่านมา
+
+- **ธันวาคม 2567**: การประชุมสามัญประจำปี
+- **พฤศจิกายน 2567**: การประชุมเชิงปฏิบัติการความปลอดภัยดิจิทัลสำหรับนักข่าว
+- **ตุลาคม 2567**: เวทีเสรีภาพทางอินเทอร์เน็ต 2567
+- **กันยายน 2567**: การพบปะชุมชนเกี่ยวกับสิทธิความเป็นส่วนตัว
+
+---
+
+## สอบถามข้อมูลสื่อ
+
+ผู้เชี่ยวชาญด้านสื่อที่ต้องการข้อมูลหรือความคิดเห็นเกี่ยวกับประเด็นเสรีภาพทางอินเทอร์เน็ตและสิทธิดิจิทัลในประเทศไทยสามารถ[ติดต่อเรา](contact.md)สำหรับการสอบถามข้อมูลสื่อ

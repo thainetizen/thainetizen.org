@@ -6,7 +6,7 @@ Built with [Zensical](https://zensical.org/), a modern static site generator bas
 
 ## Features
 
-- 🌐 **Bilingual**: Available in English and Thai (ไทย)
+- 🌐 **Bilingual**: Primary language is Thai (ไทย) with English translation
 - 🎨 **Material Design**: Clean, modern interface using Material theme
 - 📱 **Responsive**: Mobile-friendly design
 - ⚡ **Fast**: Static site generation for optimal performance
@@ -16,13 +16,13 @@ Built with [Zensical](https://zensical.org/), a modern static site generator bas
 
 ```
 thainetizen.org/
-├── docs/               # English content
+├── docs/               # Thai content (primary)
 │   ├── index.md       # Homepage
 │   ├── about.md       # About page
 │   ├── projects.md    # Projects page
 │   ├── news.md        # News & updates
 │   ├── contact.md     # Contact page
-│   └── th/            # Thai translations
+│   └── en/            # English translations
 │       ├── index.md
 │       ├── about.md
 │       ├── projects.md
@@ -127,13 +127,13 @@ Edit `zensical.toml` to customize:
 
 ### Adding Content
 
-#### English Content
+#### Thai Content (Primary)
 
-Add or edit Markdown files in the `docs/` directory.
+Add or edit Markdown files in the `docs/` directory. This is the primary language for the website.
 
-#### Thai Content
+#### English Content (Translation)
 
-Add or edit Markdown files in the `docs/th/` directory, maintaining the same file structure as the English content.
+Add or edit Markdown files in the `docs/en/` directory, maintaining the same file structure as the Thai content.
 
 ### Markdown Features
 
@@ -157,7 +157,7 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 - Keep content focused on internet freedom and digital rights
 - Maintain a professional tone appropriate for a civil society organization
-- Ensure Thai translations accurately reflect the English content
+- Primary language is Thai; English translations should accurately reflect the Thai content
 - Test your changes locally before submitting
 
 ## License

@@ -2,89 +2,89 @@
 icon: lucide/folder
 ---
 
-# Our Projects
+# โครงการของเรา
 
-Thai Netizen runs several initiatives to protect and promote internet freedom and digital rights in Thailand.
+Thai Netizen ดำเนินโครงการหลายด้านเพื่อปกป้องและส่งเสริมเสรีภาพทางอินเทอร์เน็ตและสิทธิดิจิทัลในประเทศไทย
 
-## Active Projects
+## โครงการที่กำลังดำเนินการ
 
-### Internet Freedom Monitoring
+### การติดตามเสรีภาพทางอินเทอร์เน็ต
 
-We continuously monitor the state of internet freedom in Thailand, tracking:
+เราติดตามสถานการณ์เสรีภาพทางอินเทอร์เน็ตในประเทศไทยอย่างต่อเนื่อง ติดตาม:
 
-- Website blocking and content takedowns
-- Social media censorship
-- Surveillance practices
-- Digital rights violations
+- การบล็อกเว็บไซต์และการปิดกั้นเนื้อหา
+- การเซ็นเซอร์โซเชียลมีเดีย
+- แนวปฏิบัติในการเฝ้าระวัง
+- การละเมิดสิทธิดิจิทัล
 
-Our monitoring efforts help document trends, identify emerging threats, and inform advocacy strategies.
+ความพยายามในการติดตามของเราช่วยบันทึกแนวโน้ม ระบุภัยคุกคามที่เกิดขึ้นใหม่ และแจ้งกลยุทธ์การรณรงค์
 
-**Status**: Ongoing
-
----
-
-### Digital Security Training
-
-We provide training workshops and resources to help activists, journalists, and civil society organizations protect themselves online. Our training covers:
-
-- Secure communications (encrypted messaging, email)
-- Anonymous browsing and VPN usage
-- Device security and malware protection
-- Safe social media practices
-- Responding to digital threats
-
-**Status**: Ongoing | **Next Workshop**: To be announced
+**สถานะ**: กำลังดำเนินการ
 
 ---
 
-### Policy Advocacy Campaign
+### การฝึกอบรมความปลอดภัยดิจิทัล
 
-We are actively advocating for reform of Thailand's cybersecurity and online content laws to ensure they respect fundamental rights to freedom of expression and privacy. Our advocacy includes:
+เราจัดประชุมเชิงปฏิบัติการและทรัพยากรการฝึกอบรมเพื่อช่วยนักกิจกรรม นักข่าว และองค์กรภาคประชาสังคมปกป้องตนเองออนไลน์ การฝึกอบรมของเราครอบคลุม:
 
-- Policy research and analysis
-- Engagement with lawmakers and government officials
-- Public education campaigns
-- Coalition building with other civil society organizations
+- การสื่อสารที่ปลอดภัย (การส่งข้อความและอีเมลที่เข้ารหัส)
+- การท่องเว็บแบบไม่เปิดเผยตัวตนและการใช้ VPN
+- ความปลอดภัยของอุปกรณ์และการป้องกันมัลแวร์
+- แนวปฏิบัติโซเชียลมีเดียที่ปลอดภัย
+- การตอบสนองต่อภัยคุกคามดิจิทัล
 
-**Status**: Ongoing
-
----
-
-### Digital Rights Education Program
-
-We develop and distribute educational materials to help the general public understand their digital rights, including:
-
-- Know Your Rights guides
-- Digital security handbooks
-- Infographics and visual resources
-- Video tutorials
-- Community workshops
-
-**Status**: Ongoing
+**สถานะ**: กำลังดำเนินการ | **การประชุมเชิงปฏิบัติการครั้งต่อไป**: จะแจ้งให้ทราบ
 
 ---
 
-## Completed Projects
+### แคมเปญรณรงค์นโยบาย
 
-### 2024 Internet Freedom Report
+เรากำลังรณรงค์อย่างแข็งขันเพื่อการปฏิรูปกฎหมายความมั่นคงปลอดภัยทางไซเบอร์และเนื้อหาออนไลน์ของประเทศไทยเพื่อให้แน่ใจว่าเคารพสิทธิขั้นพื้นฐานในการแสดงออกและความเป็นส่วนตัว การรณรงค์ของเราประกอบด้วย:
 
-In 2024, we published our comprehensive report on the state of internet freedom in Thailand, analyzing key trends, incidents, and policy developments. The report has been widely cited by international organizations and media outlets.
+- การวิจัยและวิเคราะห์นโยบาย
+- การมีส่วนร่วมกับผู้ตรากฎหมายและเจ้าหน้าที่รัฐบาล
+- แคมเปญการศึกษาสาธารณะ
+- การสร้างพันธมิตรกับองค์กรภาคประชาสังคมอื่นๆ
 
-**Status**: Completed | [Read the Report](#)
-
----
-
-## Future Initiatives
-
-We are always developing new projects to address emerging challenges to digital rights. Some initiatives we are exploring include:
-
-- Online harassment and cyberbullying support program
-- Youth digital literacy initiative
-- Open data and transparency platform
-- Regional collaboration with Southeast Asian digital rights organizations
+**สถานะ**: กำลังดำเนินการ
 
 ---
 
-## Get Involved
+### โครงการให้ความรู้สิทธิดิจิทัล
 
-Interested in contributing to our projects? We welcome volunteers, partners, and supporters. Please [contact us](contact.md) to learn more about how you can get involved.
+เราพัฒนาและเผยแพร่สื่อการศึกษาเพื่อช่วยให้สาธารณชนเข้าใจสิทธิดิจิทัลของตน ประกอบด้วย:
+
+- คู่มือรู้จักสิทธิของคุณ
+- คู่มือความปลอดภัยดิจิทัล
+- อินโฟกราฟิกและทรัพยากรภาพ
+- บทช่วยสอนวิดีโอ
+- การประชุมเชิงปฏิบัติการชุมชน
+
+**สถานะ**: กำลังดำเนินการ
+
+---
+
+## โครงการที่เสร็จสิ้น
+
+### รายงานเสรีภาพทางอินเทอร์เน็ตปี 2567
+
+ในปี 2567 เราเผยแพร่รายงานที่ครอบคลุมเกี่ยวกับสถานะเสรีภาพทางอินเทอร์เน็ตในประเทศไทย วิเคราะห์แนวโน้มสำคัญ เหตุการณ์ และการพัฒนานโยบาย รายงานได้รับการอ้างอิงอย่างกว้างขวางจากองค์กรระหว่างประเทศและสื่อมวลชน
+
+**สถานะ**: เสร็จสิ้นแล้ว | [อ่านรายงาน](#)
+
+---
+
+## โครงการในอนาคต
+
+เรากำลังพัฒนาโครงการใหม่เสมอเพื่อจัดการกับความท้าทายที่เกิดขึ้นใหม่ต่อสิทธิดิจิทัล โครงการบางส่วนที่เรากำลังสำรวจรวมถึง:
+
+- โครงการสนับสนุนการล่วงละเมิดออนไลน์และการกลั่นแกล้งทางไซเบอร์
+- โครงการความรู้ดิจิทัลสำหรับเยาวชน
+- แพลตฟอร์มข้อมูลเปิดและความโปร่งใส
+- ความร่วมมือในระดับภูมิภาคกับองค์กรสิทธิดิจิทัลในเอเชียตะวันออกเฉียงใต้
+
+---
+
+## มีส่วนร่วม
+
+สนใจมีส่วนร่วมในโครงการของเรา? เรายินดีต้อนรับอาสาสมัคร พันธมิตร และผู้สนับสนุน โปรด[ติดต่อเรา](contact.md)เพื่อเรียนรู้เพิ่มเติมเกี่ยวกับวิธีที่คุณสามารถมีส่วนร่วมได้

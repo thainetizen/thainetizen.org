@@ -2,47 +2,47 @@
 icon: lucide/home
 ---
 
-# Welcome to Thai Netizen
+# ยินดีต้อนรับสู่ Thai Netizen
 
-**Thai Netizen** is a civil society organization dedicated to promoting and protecting internet freedom and digital rights in Thailand.
+**Thai Netizen** คือองค์กรภาคประชาสังคมที่มุ่งมั่นส่งเสริมและปกป้องเสรีภาพทางอินเทอร์เน็ตและสิทธิดิจิทัลในประเทศไทย
 
-## Our Mission
+## พันธกิจของเรา
 
-We work to ensure that all people in Thailand can freely access information, express themselves online, and participate in the digital world without fear of censorship, surveillance, or discrimination.
+เราทำงานเพื่อให้แน่ใจว่าประชาชนทุกคนในประเทศไทยสามารถเข้าถึงข้อมูล แสดงความคิดเห็นออนไลน์ และมีส่วนร่วมในโลกดิจิทัลได้อย่างเสรี โดยไม่ต้องกลัวการเซ็นเซอร์ การเฝ้าระวัง หรือการเลือกปฏิบัติ
 
-## What We Do
+## สิ่งที่เราทำ
 
-- **Advocacy**: We advocate for policies that protect digital rights and internet freedom
-- **Education**: We educate the public about digital security, privacy, and online rights
-- **Research**: We conduct research on internet freedom issues in Thailand
-- **Support**: We provide support to individuals and organizations facing digital rights violations
+- **การรณรงค์**: เราสนับสนุนนโยบายที่ปกป้องสิทธิดิจิทัลและเสรีภาพทางอินเทอร์เน็ต
+- **การศึกษา**: เราให้ความรู้แก่สาธารณะเกี่ยวกับความปลอดภัยดิจิทัล ความเป็นส่วนตัว และสิทธิออนไลน์
+- **การวิจัย**: เราทำการวิจัยเกี่ยวกับประเด็นเสรีภาพทางอินเทอร์เน็ตในประเทศไทย
+- **การสนับสนุน**: เราให้การสนับสนุนแก่บุคคลและองค์กรที่เผชิญกับการละเมิดสิทธิดิจิทัล
 
-## Key Focus Areas
+## ประเด็นสำคัญที่เรามุ่งเน้น
 
-### Freedom of Expression Online
+### เสรีภาพในการแสดงออกออนไลน์
 
-We defend the right to free speech and expression on the internet, challenging censorship and advocating for open communication platforms.
+เราปกป้องสิทธิในการพูดและแสดงความคิดเห็นบนอินเทอร์เน็ตอย่างเสรี ต่อต้านการเซ็นเซอร์ และสนับสนุนแพลตฟอร์มการสื่อสารที่เปิดกว้าง
 
-### Privacy and Surveillance
+### ความเป็นส่วนตัวและการเฝ้าระวัง
 
-We work to protect individual privacy online and push back against mass surveillance programs that threaten civil liberties.
+เราทำงานเพื่อปกป้องความเป็นส่วนตัวของบุคคลออนไลน์ และต่อต้านโครงการเฝ้าระวังมวลชนที่คุกคามเสรีภาพของพลเมือง
 
-### Access to Information
+### การเข้าถึงข้อมูล
 
-We promote universal access to the internet and fight against digital divides that prevent equitable access to information.
+เราส่งเสริมการเข้าถึงอินเทอร์เน็ตแบบครอบคลุม และต่อสู้กับความเหลื่อมล้ำทางดิจิทัลที่ขัดขวางการเข้าถึงข้อมูลอย่างเท่าเทียม
 
-### Digital Security
+### ความปลอดภัยดิจิทัล
 
-We provide resources and training to help individuals and organizations protect themselves online.
+เราให้ทรัพยากรและการฝึกอบรมเพื่อช่วยให้บุคคลและองค์กรปกป้องตนเองออนไลน์
 
-## Get Involved
+## มีส่วนร่วมกับเรา
 
-Join us in our mission to protect and promote digital rights in Thailand:
+ร่วมกับเราในภารกิจปกป้องและส่งเสริมสิทธิดิจิทัลในประเทศไทย:
 
-- **Stay Informed**: Follow our [news and updates](news.md) to stay current on internet freedom issues
-- **Support Our Work**: Learn about our [projects](projects.md) and how you can contribute
-- **Contact Us**: [Get in touch](contact.md) to collaborate or learn more
+- **ติดตามข้อมูล**: ติดตาม[ข่าวสารและความเคลื่อนไหว](news.md)ของเราเพื่อรับทราบประเด็นเสรีภาพทางอินเทอร์เน็ตล่าสุด
+- **สนับสนุนงานของเรา**: เรียนรู้เกี่ยวกับ[โครงการ](projects.md)ของเราและวิธีที่คุณสามารถมีส่วนร่วมได้
+- **ติดต่อเรา**: [ติดต่อเรา](contact.md)เพื่อร่วมมือหรือเรียนรู้เพิ่มเติม
 
 ---
 
-*Together, we can build a free and open internet for all.*
+*ร่วมกัน เราสามารถสร้างอินเทอร์เน็ตที่เสรีและเปิดกว้างสำหรับทุกคน*

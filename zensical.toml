@@ -6,25 +6,25 @@
 
 # Site information
 site_name = "Thai Netizen"
-site_description = "A civil society organization advocating for internet freedom and digital rights in Thailand"
+site_description = "องค์กรภาคประชาสังคมที่มุ่งมั่นส่งเสริมและปกป้องเสรีภาพทางอินเทอร์เน็ตและสิทธิดิจิทัลในประเทศไทย"
 site_author = "Thai Netizen"
 site_url = "https://thainetizen.org"
 
 # Copyright notice
 copyright = """
-Copyright &copy; 2025 Thai Netizen. All rights reserved.
+สงวนลิขสิทธิ์ &copy; 2568 Thai Netizen
 """
 
 # Default language
-language = "en"
+language = "th"
 
 # Navigation structure
 nav = [
-  { "Home" = "index.md" },
-  { "About" = "about.md" },
-  { "Projects" = "projects.md" },
-  { "News" = "news.md" },
-  { "Contact" = "contact.md" },
+  { "หน้าแรก" = "index.md" },
+  { "เกี่ยวกับ" = "about.md" },
+  { "โครงการ" = "projects.md" },
+  { "ข่าวสาร" = "news.md" },
+  { "ติดต่อ" = "contact.md" },
 ]
 
 # ----------------------------------------------------------------------------
@@ -52,14 +52,14 @@ search.highlight = true
 
 # Language selector configuration
 [[project.extra.alternate]]
-name = "English"
+name = "ไทย"
 link = "/"
-lang = "en"
+lang = "th"
 
 [[project.extra.alternate]]
-name = "ไทย"
-link = "/th/"
-lang = "th"
+name = "English"
+link = "/en/"
+lang = "en"
 
 # Social links in footer
 [[project.extra.social]]

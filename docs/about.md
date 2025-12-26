@@ -2,66 +2,66 @@
 icon: lucide/info
 ---
 
-# About Thai Netizen
+# เกี่ยวกับ Thai Netizen
 
-## Who We Are
+## เราคือใคร
 
-Thai Netizen is a non-profit civil society organization established to protect and promote internet freedom and digital rights in Thailand. We are a collective of activists, technologists, lawyers, and citizens committed to ensuring a free, open, and secure internet for all.
+Thai Netizen เป็นองค์กรภาคประชาสังคมไม่แสวงหากำไรที่ก่อตั้งขึ้นเพื่อปกป้องและส่งเสริมเสรีภาพทางอินเทอร์เน็ตและสิทธิดิจิทัลในประเทศไทย เราเป็นกลุ่มนักกิจกรรม นักเทคโนโลยี นักกฎหมาย และพลเมืองที่มุ่งมั่นในการสร้างอินเทอร์เน็ตที่เสรี เปิดกว้าง และปลอดภัยสำหรับทุกคน
 
-## Our Vision
+## วิสัยทัศน์ของเรา
 
-We envision a Thailand where:
+เราตั้งเป้าหมายให้ประเทศไทยเป็นที่ที่:
 
-- Every person can freely access information and express themselves online
-- Privacy is respected and protected as a fundamental right
-- The internet remains open, accessible, and free from unwarranted censorship
-- Digital technologies empower rather than surveil citizens
-- Online spaces are safe and inclusive for all
+- ทุกคนสามารถเข้าถึงข้อมูลและแสดงความคิดเห็นออนไลน์ได้อย่างเสรี
+- ความเป็นส่วนตัวได้รับการเคารพและปกป้องในฐานะสิทธิขั้นพื้นฐาน
+- อินเทอร์เน็ตยังคงเปิดกว้าง เข้าถึงได้ และปราศจากการเซ็นเซอร์ที่ไม่ชอบด้วยกฎหมาย
+- เทคโนโลยีดิจิทัลเสริมพลังพลเมืองมากกว่าการเฝ้าระวัง
+- พื้นที่ออนไลน์ปลอดภัยและครอบคลุมสำหรับทุกคน
 
-## Our Values
+## คุณค่าของเรา
 
-### Transparency
+### ความโปร่งใส
 
-We operate openly and transparently, sharing our work, findings, and methodologies with the public.
+เราดำเนินงานอย่างเปิดเผยและโปร่งใส แบ่งปันงาน การค้นพบ และวิธีการของเรากับสาธารณะ
 
-### Independence
+### ความเป็นอิสระ
 
-We maintain our independence from government and commercial interests to serve the public interest.
+เรารักษาความเป็นอิสระจากรัฐบาลและผลประโยชน์ทางการค้าเพื่อให้บริการเพื่อประโยชน์สาธารณะ
 
-### Collaboration
+### การทำงานร่วมกัน
 
-We work collaboratively with other civil society organizations, journalists, academics, and communities.
+เราทำงานร่วมกับองค์กรภาคประชาสังคมอื่นๆ นักข่าว นักวิชาการ และชุมชนต่างๆ
 
-### Inclusion
+### การเปิดกว้าง
 
-We strive to include diverse voices and perspectives in our work, especially those from marginalized communities.
+เรามุ่งมั่นที่จะรวมเสียงและมุมมองที่หลากหลายในงานของเรา โดยเฉพาะจากชุมชนที่ถูกกีดกัน
 
-## What We Do
+## สิ่งที่เราทำ
 
-### Policy Advocacy
+### การรณรงค์นโยบาย
 
-We engage with policymakers, lawmakers, and government agencies to advocate for laws and policies that protect digital rights and internet freedom. We provide expert testimony, submit policy recommendations, and participate in public consultations.
+เราเข้าร่วมกับผู้กำหนดนโยบาย ผู้ตรากฎหมาย และหน่วยงานรัฐเพื่อสนับสนุนกฎหมายและนโยบายที่ปกป้องสิทธิดิจิทัลและเสรีภาพทางอินเทอร์เน็ต เราให้คำแนะนำจากผู้เชี่ยวชาญ ส่งคำแนะนำเชิงนโยบาย และเข้าร่วมการรับฟังความคิดเห็นสาธารณะ
 
-### Public Education
+### การให้ความรู้สาธารณะ
 
-We create educational resources, conduct workshops, and organize events to help people understand their digital rights and learn how to protect themselves online.
+เราสร้างทรัพยากรการศึกษา จัดการประชุมเชิงปฏิบัติการ และจัดกิจกรรมต่างๆ เพื่อช่วยให้ผู้คนเข้าใจสิทธิดิจิทัลของตนและเรียนรู้วิธีปกป้องตนเองออนไลน์
 
-### Research and Documentation
+### การวิจัยและการบันทึก
 
-We conduct research on internet freedom issues in Thailand, document digital rights violations, and publish reports to raise awareness and inform policy debates.
+เราทำการวิจัยเกี่ยวกับประเด็นเสรีภาพทางอินเทอร์เน็ตในประเทศไทย บันทึกการละเมิดสิทธิดิจิทัล และเผยแพร่รายงานเพื่อสร้างความตระหนักและแจ้งการอภิปรายนโยบาย
 
-### Legal Support
+### การสนับสนุนทางกฎหมาย
 
-We provide legal information and support to individuals and organizations facing digital rights violations, including censorship, surveillance, and online harassment.
+เราให้ข้อมูลทางกฎหมายและสนับสนุนบุคคลและองค์กรที่เผชิญกับการละเมิดสิทธิดิจิทัล รวมถึงการเซ็นเซอร์ การเฝ้าระวัง และการล่วงละเมิดออนไลน์
 
-### Technical Assistance
+### ความช่วยเหลือทางเทคนิค
 
-We offer technical guidance on digital security tools and practices to help activists, journalists, and civil society organizations protect their communications and data.
+เรามีคำแนะนำทางเทคนิคเกี่ยวกับเครื่องมือและแนวปฏิบัติด้านความปลอดภัยดิจิทัลเพื่อช่วยนักกิจกรรม นักข่าว และองค์กรภาคประชาสังคมปกป้องการสื่อสารและข้อมูลของพวกเขา
 
-## Our Team
+## ทีมของเรา
 
-Thai Netizen is run by a dedicated team of volunteers and staff members with expertise in human rights, technology, law, and communications. We are supported by a network of advisors and partners both in Thailand and internationally.
+Thai Netizen ดำเนินการโดยทีมอาสาสมัครและเจ้าหน้าที่ที่ทุ่มเทซึ่งมีความเชี่ยวชาญด้านสิทธิมนุษยชน เทคโนโลยี กฎหมาย และการสื่อสาร เราได้รับการสนับสนุนจากเครือข่ายที่ปรึกษาและพันธมิตรทั้งในประเทศไทยและต่างประเทศ
 
-## Contact
+## ติดต่อ
 
-For more information about our organization or to get in touch with our team, please visit our [contact page](contact.md).
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับองค์กรของเราหรือเพื่อติดต่อทีมของเรา โปรดไปที่[หน้าติดต่อ](contact.md)ของเรา

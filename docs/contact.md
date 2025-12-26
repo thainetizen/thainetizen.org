@@ -2,101 +2,101 @@
 icon: lucide/mail
 ---
 
-# Contact Us
+# ติดต่อเรา
 
-We'd love to hear from you! Whether you have questions, want to collaborate, or need support, please don't hesitate to get in touch.
+เรายินดีที่จะได้ยินจากคุณ! ไม่ว่าคุณจะมีคำถาม ต้องการทำงานร่วมกัน หรือต้องการการสนับสนุน อย่าลังเลที่จะติดต่อ
 
-## Get in Touch
+## ติดต่อเรา
 
-### General Inquiries
+### สอบถามทั่วไป
 
-For general questions about Thai Netizen, our work, or how to get involved:
+สำหรับคำถามทั่วไปเกี่ยวกับ Thai Netizen งานของเรา หรือวิธีการมีส่วนร่วม:
 
-- **Email**: contact@thainetizen.org
-- **Response Time**: We typically respond within 2-3 business days
+- **อีเมล**: contact@thainetizen.org
+- **เวลาตอบกลับ**: เรามักจะตอบภายใน 2-3 วันทำการ
 
-### Press & Media
+### สื่อมวลชนและสื่อ
 
-For press inquiries, interview requests, or media partnerships:
+สำหรับการสอบถามข้อมูลสื่อ คำขอสัมภาษณ์ หรือความร่วมมือด้านสื่อ:
 
-- **Email**: press@thainetizen.org
-- **Response Time**: We aim to respond to urgent media requests within 24 hours
+- **อีเมล**: press@thainetizen.org
+- **เวลาตอบกลับ**: เรามุ่งหมายที่จะตอบคำขอด่วนจากสื่อภายใน 24 ชั่วโมง
 
-### Support Requests
+### คำขอการสนับสนุน
 
-If you need assistance with a digital rights issue or security concern:
+หากคุณต้องการความช่วยเหลือเกี่ยวกับปัญหาสิทธิดิจิทัลหรือข้อกังวลด้านความปลอดภัย:
 
-- **Email**: support@thainetizen.org
-- **Note**: Please provide as much detail as possible about your situation. All communications are treated confidentially.
+- **อีเมล**: support@thainetizen.org
+- **หมายเหตุ**: โปรดให้รายละเอียดมากที่สุดเกี่ยวกับสถานการณ์ของคุณ การสื่อสารทั้งหมดได้รับการปฏิบัติเป็นความลับ
 
-### Partnerships & Collaboration
+### ความร่วมมือและพันธมิตร
 
-Interested in partnering with Thai Netizen or collaborating on a project:
+สนใจทำงานร่วมกับ Thai Netizen หรือทำงานร่วมกันในโครงการ:
 
-- **Email**: partnerships@thainetizen.org
+- **อีเมล**: partnerships@thainetizen.org
 
-## Secure Communication
+## การสื่อสารที่ปลอดภัย
 
-For sensitive communications, we encourage the use of encrypted email:
+สำหรับการสื่อสารที่ละเอียดอ่อน เราสนับสนุนการใช้อีเมลที่เข้ารหัส:
 
-- **PGP Key**: Available upon request
-- **Signal**: Available for verified contacts
+- **คีย์ PGP**: มีให้ตามคำขอ
+- **Signal**: มีให้สำหรับผู้ติดต่อที่ได้รับการยืนยัน
 
-## Social Media
+## โซเชียลมีเดีย
 
-Connect with us on social media to stay updated on our work:
+เชื่อมต่อกับเราบนโซเชียลมีเดียเพื่อติดตามงานของเรา:
 
 - **Twitter**: [@thainetizen](https://twitter.com/thainetizen)
 - **GitHub**: [github.com/thainetizen](https://github.com/thainetizen)
 
-## Office Location
+## ที่ตั้งสำนักงาน
 
-Thai Netizen operates as a distributed organization. We do not maintain a physical office for security and operational reasons. All communications should be conducted via email or secure messaging platforms.
+Thai Netizen ดำเนินงานเป็นองค์กรแบบกระจาย เราไม่มีสำนักงานจริงด้วยเหตุผลด้านความปลอดภัยและการดำเนินงาน การสื่อสารทั้งหมดควรดำเนินการผ่านอีเมลหรือแพลตฟอร์มการส่งข้อความที่ปลอดภัย
 
-## Volunteer & Internship Opportunities
+## โอกาสอาสาสมัครและฝึกงาน
 
-We welcome volunteers and interns who are passionate about digital rights and internet freedom. Opportunities are available in:
+เรายินดีต้อนรับอาสาสมัครและนักศึกษาฝึกงานที่หลงใหลในสิทธิดิจิทัลและเสรีภาพทางอินเทอร์เน็ต โอกาสมีให้ใน:
 
-- Research and policy analysis
-- Digital security training
-- Communications and outreach
-- Technical development
-- Translation and localization
+- การวิจัยและการวิเคราะห์นโยบาย
+- การฝึกอบรมความปลอดภัยดิจิทัล
+- การสื่อสารและการเผยแพร่
+- การพัฒนาทางเทคนิค
+- การแปลและการแปลเป็นท้องถิ่น
 
-To inquire about volunteer or internship opportunities, please email: volunteer@thainetizen.org
+หากต้องการสอบถามเกี่ยวกับโอกาสอาสาสมัครหรือฝึกงาน โปรดส่งอีเมล: volunteer@thainetizen.org
 
-## Donations & Support
+## การบริจาคและการสนับสนุน
 
-Thai Netizen is funded by grants and donations from individuals and organizations who support our mission. If you'd like to support our work financially:
+Thai Netizen ได้รับทุนจากทุนและการบริจาคจากบุคคลและองค์กรที่สนับสนุนพันธกิจของเรา หากคุณต้องการสนับสนุนงานของเราด้วยการเงิน:
 
-- **Contact**: donations@thainetizen.org
+- **ติดต่อ**: donations@thainetizen.org
 
-We are currently working on setting up online donation mechanisms. Please check back for updates.
+เรากำลังทำงานเพื่อตั้งค่ากลไกการบริจาคออนไลน์ โปรดกลับมาตรวจสอบเพื่อรับข้อมูลอัพเดท
 
-## Report a Digital Rights Violation
+## รายงานการละเมิดสิทธิดิจิทัล
 
-If you have experienced or witnessed a digital rights violation in Thailand, we want to hear from you. Your report will help us document trends and advocate for change:
+หากคุณได้รับหรือเห็นการละเมิดสิทธิดิจิทัลในประเทศไทย เราต้องการทราบจากคุณ รายงานของคุณจะช่วยให้เราบันทึกแนวโน้มและสนับสนุนการเปลี่ยนแปลง:
 
-- **Email**: report@thainetizen.org
-- **Anonymous Reporting**: Available through secure channels (contact us for details)
+- **อีเมล**: report@thainetizen.org
+- **การรายงานแบบไม่เปิดเผยตัวตน**: มีผ่านช่องทางที่ปลอดภัย (ติดต่อเราเพื่อขอรายละเอียด)
 
-All reports are treated confidentially, and we will only share information with your explicit permission.
+รายงานทั้งหมดได้รับการปฏิบัติเป็นความลับ และเราจะแบ่งปันข้อมูลเฉพาะกับความยินยอมของคุณอย่างชัดเจนเท่านั้น
 
-## Feedback
+## ข้อเสนอแนะ
 
-We value your feedback on our work and website. Please let us know how we can improve:
+เราให้คุณค่ากับข้อเสนอแนะของคุณเกี่ยวกับงานและเว็บไซต์ของเรา โปรดแจ้งให้เราทราบว่าเราจะปรับปรุงได้อย่างไร:
 
-- **Email**: feedback@thainetizen.org
-
----
-
-## Important Notes
-
-- **Security**: For sensitive matters, please request our secure communication methods
-- **Language**: We accept communications in Thai and English
-- **Privacy**: We respect your privacy and do not share contact information with third parties
-- **Response Time**: While we strive to respond promptly, please allow 2-3 business days for non-urgent inquiries
+- **อีเมล**: feedback@thainetizen.org
 
 ---
 
-*Thank you for your interest in Thai Netizen. Together, we can protect and promote internet freedom and digital rights in Thailand.*
+## หมายเหตุสำคัญ
+
+- **ความปลอดภัย**: สำหรับเรื่องที่ละเอียดอ่อน โปรดขอวิธีการสื่อสารที่ปลอดภัยของเรา
+- **ภาษา**: เรารับการสื่อสารเป็นภาษาไทยและอังกฤษ
+- **ความเป็นส่วนตัว**: เราเคารพความเป็นส่วนตัวของคุณและไม่แบ่งปันข้อมูลติดต่อกับบุคคลที่สาม
+- **เวลาตอบกลับ**: แม้ว่าเราพยายามตอบอย่างรวดเร็ว โปรดอนุญาต 2-3 วันทำการสำหรับการสอบถามที่ไม่เร่งด่วน
+
+---
+
+*ขอบคุณสำหรับความสนใจใน Thai Netizen ร่วมกัน เราสามารถปกป้องและส่งเสริมเสรีภาพทางอินเทอร์เน็ตและสิทธิดิจิทัลในประเทศไทย*
