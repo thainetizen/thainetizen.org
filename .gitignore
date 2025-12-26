@@ -154,6 +154,10 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# Zensical build output
+site/
+.cache/
+
 # mypy
 .mypy_cache/
 .dmypy.json
