@@ -1,7 +1,8 @@
 ## General
 
-- [ ] Do not commit any personal or sensitive information,
-      including citizen ID number, security key and passwords to GitHub.
+- [ ] Do not commit to Git or post on issues/PRs a content containing
+      any personal or sensitive information,
+      including citizen ID number, security key and passwords.
 - [ ] Be very careful about web security when doing any configuration,
       or writing/suggesting a code.
 - [ ] Base URL of the website is https://thainetizen.org
