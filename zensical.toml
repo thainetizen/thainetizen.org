@@ -1,0 +1,73 @@
+# ============================================================================
+# Thai Netizen Website Configuration
+# ============================================================================
+
+[project]
+
+# Site information
+site_name = "Thai Netizen"
+site_description = "A civil society organization advocating for internet freedom and digital rights in Thailand"
+site_author = "Thai Netizen"
+site_url = "https://thainetizen.org"
+
+# Copyright notice
+copyright = """
+Copyright &copy; 2025 Thai Netizen. All rights reserved.
+"""
+
+# Default language
+language = "en"
+
+# Navigation structure
+nav = [
+  { "Home" = "index.md" },
+  { "About" = "about.md" },
+  { "Projects" = "projects.md" },
+  { "News" = "news.md" },
+  { "Contact" = "contact.md" },
+]
+
+# ----------------------------------------------------------------------------
+# Theme Configuration
+# ----------------------------------------------------------------------------
+[project.theme]
+
+# Color scheme configuration
+[project.theme.palette]
+# Primary color for headers, links, etc.
+primary = "indigo"
+# Accent color for interactive elements
+accent = "blue"
+
+# Features configuration
+[project.theme.features]
+# Enable navigation features
+navigation.tabs = true
+navigation.sections = true
+navigation.expand = false
+navigation.top = true
+# Enable search
+search.suggest = true
+search.highlight = true
+
+# Language selector configuration
+[[project.extra.alternate]]
+name = "English"
+link = "/"
+lang = "en"
+
+[[project.extra.alternate]]
+name = "ไทย"
+link = "/th/"
+lang = "th"
+
+# Social links in footer
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/thainetizen"
+name = "GitHub"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/twitter"
+link = "https://twitter.com/thainetizen"
+name = "Twitter"
